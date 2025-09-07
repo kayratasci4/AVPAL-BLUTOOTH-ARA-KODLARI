@@ -1,2 +1,2 @@
-# AVPAL-BLUTOOTH-ARA-KODLARI
+# AVPAL-BLUTOOTH-ARAC-KODLARI
 Bu kodları Arduino IDE bilgisayar programı ile birlikte kodu yükleyeceğiniz COM portunu seçip "UPLOAD" tuşuna basıp yükleyebilirsiniz!
